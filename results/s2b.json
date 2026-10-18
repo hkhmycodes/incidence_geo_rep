@@ -1,0 +1,42 @@
+{
+ "3_2": {
+  "min": 2,
+  "max": 2,
+  "monomials": 15
+ },
+ "3_3": {
+  "min": 10,
+  "max": 10,
+  "monomials": 35
+ },
+ "4_2": {
+  "min": 1,
+  "max": 1,
+  "monomials": 15
+ },
+ "4_3": {
+  "min": 5,
+  "max": 5,
+  "monomials": 35
+ },
+ "5_2": {
+  "min": 0,
+  "max": 0,
+  "monomials": 15
+ },
+ "5_3": {
+  "min": 0,
+  "max": 0,
+  "monomials": 35
+ },
+ "6_2": {
+  "min": 0,
+  "max": 0,
+  "monomials": 15
+ },
+ "6_3": {
+  "min": 0,
+  "max": 0,
+  "monomials": 35
+ }
+}

@@ -1,0 +1,59 @@
+{
+  "field": "F_1000003",
+  "distinct_affine_states": 2500,
+  "degree_2_evaluation_rank": 12,
+  "degree_2_kernel_dimension": 3,
+  "degree_3_evaluation_rank": 18,
+  "degree_3_kernel_dimension": 17,
+  "displayed_quadric_rank": 3,
+  "quadrics": [
+    "94183*u + v*y + 360203*v + 94183*x + 360203*y + 104557",
+    "u*y - 6231*u + v*x - 207768*v - 6231*x - 207768*y + 194562",
+    "u*x - 321028*u + 482705*v - 321028*x + 482705*y + 32895"
+  ],
+  "plane_cubic": "x**3 + 967124*x**2*y + 517859*x**2 + 791970*x*y**2 + 530013*x*y + 468845*x + 660105*y**3 + 631848*y**2 + 643754*y + 66533",
+  "bilinear_ideal_generators": 3,
+  "five_generator_ideal_generators": 5,
+  "bilinear_groebner_basis_size": 7,
+  "five_generator_groebner_basis_size": 7,
+  "same_leading_monomials_as_five_generator_ideal": true,
+  "leading_monomials_grevlex": [
+    "x**3*y**0*u**0*v**0",
+    "x**0*y**0*u**3*v**0",
+    "x**2*y**0*u**0*v**1",
+    "x**1*y**0*u**0*v**2",
+    "x**1*y**0*u**1*v**0",
+    "x**0*y**1*u**1*v**0",
+    "x**0*y**1*u**0*v**1"
+  ],
+  "filtered_hilbert_function_d0_to_10": [
+    1,
+    5,
+    12,
+    18,
+    24,
+    30,
+    36,
+    42,
+    48,
+    54,
+    60
+  ],
+  "projected_cubics_reduce_to_zero_modulo_bilinear_ideal": {
+    "f_x_y": true,
+    "f_u_v": true
+  },
+  "checked_state_count_including_initial_and_seeds": 2503,
+  "cleared_substitution_remainders_zero_for_three_bilinear_generators": {
+    "A": [
+      true,
+      true,
+      true
+    ],
+    "B": [
+      true,
+      true,
+      true
+    ]
+  }
+}

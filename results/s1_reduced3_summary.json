@@ -1,0 +1,179 @@
+{
+ "p": 1000003,
+ "L": 10,
+ "lang": "reduced3",
+ "by_length": {
+  "1": {
+   "n": 3,
+   "min": 2,
+   "median": 2,
+   "max": 2
+  },
+  "2": {
+   "n": 6,
+   "min": 4,
+   "median": 4.0,
+   "max": 4
+  },
+  "3": {
+   "n": 12,
+   "min": 8,
+   "median": 8.0,
+   "max": 8
+  },
+  "4": {
+   "n": 24,
+   "min": 13,
+   "median": 16.0,
+   "max": 16
+  },
+  "5": {
+   "n": 48,
+   "min": 20,
+   "median": 32.0,
+   "max": 32
+  },
+  "6": {
+   "n": 96,
+   "min": 28,
+   "median": 56.5,
+   "max": 64
+  },
+  "7": {
+   "n": 192,
+   "min": 38,
+   "median": 104.0,
+   "max": 128
+  },
+  "8": {
+   "n": 384,
+   "min": 49,
+   "median": 208.0,
+   "max": 256
+  },
+  "9": {
+   "n": 768,
+   "min": 62,
+   "median": 392.0,
+   "max": 512
+  },
+  "10": {
+   "n": 1536,
+   "min": 76,
+   "median": 688.0,
+   "max": 1024
+  }
+ },
+ "weak_words": [
+  [
+   "ABABABABAB",
+   76
+  ],
+  [
+   "ACACACACAC",
+   76
+  ],
+  [
+   "BABABABABA",
+   76
+  ],
+  [
+   "BCBCBCBCBC",
+   76
+  ],
+  [
+   "CACACACACA",
+   76
+  ],
+  [
+   "CBCBCBCBCB",
+   76
+  ],
+  [
+   "ABABABABAC",
+   124
+  ],
+  [
+   "ABCBCBCBCB",
+   124
+  ],
+  [
+   "ACACACACAB",
+   124
+  ],
+  [
+   "ACBCBCBCBC",
+   124
+  ],
+  [
+   "BABABABABC",
+   124
+  ],
+  [
+   "BACACACACA",
+   124
+  ],
+  [
+   "BCACACACAC",
+   124
+  ],
+  [
+   "BCBCBCBCBA",
+   124
+  ],
+  [
+   "CABABABABA",
+   124
+  ]
+ ],
+ "by_alt_run": {
+  "2": {
+   "n": 6,
+   "median_ratio": 1.0
+  },
+  "3": {
+   "n": 324,
+   "median_ratio": 1.0
+  },
+  "4": {
+   "n": 564,
+   "median_ratio": 0.8008
+  },
+  "5": {
+   "n": 354,
+   "median_ratio": 0.5781
+  },
+  "6": {
+   "n": 168,
+   "median_ratio": 0.4375
+  },
+  "7": {
+   "n": 72,
+   "median_ratio": 0.2969
+  },
+  "8": {
+   "n": 30,
+   "median_ratio": 0.1914
+  },
+  "9": {
+   "n": 12,
+   "median_ratio": 0.1211
+  },
+  "10": {
+   "n": 6,
+   "median_ratio": 0.0742
+  }
+ },
+ "AB_family": {
+  "1": 2,
+  "2": 4,
+  "3": 8,
+  "4": 13,
+  "5": 20,
+  "6": 28,
+  "7": 38,
+  "8": 49,
+  "9": 62,
+  "10": 76
+ }
+}

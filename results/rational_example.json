@@ -1,0 +1,85 @@
+{
+  "field": "Q",
+  "projective_cubic": "Y^2 Z = X^3 - 7 X^2 Z + 15 X Z^2",
+  "cubic_polynomial_discriminant": -2475,
+  "smooth": true,
+  "two_torsion_point": [
+    0,
+    0
+  ],
+  "P": [
+    1,
+    3
+  ],
+  "P_bar": [
+    15,
+    -45
+  ],
+  "Q": [
+    3,
+    -3
+  ],
+  "Q_bar": [
+    5,
+    5
+  ],
+  "D": [
+    12,
+    -30
+  ],
+  "D_bar": [
+    "5/4",
+    "25/8"
+  ],
+  "all_six_construction_points_on_cubic": true,
+  "pair_differences_are_T": true,
+  "orbit_initial_state": "q_0=2P=(49/9,-161/27)",
+  "orbit_states_and_partners": [
+    {
+      "n": 0,
+      "q": [
+        "49/9",
+        "-161/27"
+      ],
+      "q_plus_T": [
+        "135/49",
+        "1035/343"
+      ]
+    },
+    {
+      "n": 1,
+      "q": [
+        "3/121",
+        "-807/1331"
+      ],
+      "q_plus_T": [
+        "605",
+        "14795"
+      ]
+    },
+    {
+      "n": 2,
+      "q": [
+        "1849/400",
+        "34443/8000"
+      ],
+      "q_plus_T": [
+        "6000/1849",
+        "-240300/79507"
+      ]
+    },
+    {
+      "n": 3,
+      "q": [
+        "68403/3481",
+        "-14780937/205379"
+      ],
+      "q_plus_T": [
+        "17405/22801",
+        "9625555/3442951"
+      ]
+    }
+  ],
+  "steps_checked_by_exact_projective_cross_products": 3,
+  "translation_relation_q_next_plus_Q_equals_q_plus_P": true
+}

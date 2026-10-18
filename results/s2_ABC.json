@@ -1,0 +1,50 @@
+{
+ "word": "ABC",
+ "p": 1000003,
+ "N": 2500,
+ "HF": [
+  1,
+  5,
+  13,
+  25,
+  41,
+  61,
+  85,
+  113,
+  145,
+  181,
+  221
+ ],
+ "full": [
+  1,
+  5,
+  15,
+  35,
+  70,
+  126,
+  210,
+  330,
+  495,
+  715,
+  1001
+ ],
+ "verdict": "SURFACE-like growth (quadratic HF): lies on a 2-dim variety",
+ "plane": {
+  "Q-orbit": {
+   "degree": null,
+   "kernel_dim": 0
+  },
+  "Q'-orbit": {
+   "degree": null,
+   "kernel_dim": 0
+  },
+  "Q+Q' orbits": {
+   "degree": null,
+   "kernel_dim": 0
+  },
+  "Q+Q' orbits + seeds A,A',B,B'": {
+   "degree": null,
+   "kernel_dim": 0
+  }
+ }
+}

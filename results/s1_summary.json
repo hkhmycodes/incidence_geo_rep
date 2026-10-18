@@ -1,0 +1,147 @@
+{
+ "p": 1000003,
+ "L": 12,
+ "lang": "cyclic",
+ "by_length": {
+  "1": {
+   "n": 2,
+   "min": 2,
+   "median": 2.0,
+   "max": 2
+  },
+  "2": {
+   "n": 4,
+   "min": 4,
+   "median": 4.0,
+   "max": 4
+  },
+  "3": {
+   "n": 8,
+   "min": 8,
+   "median": 8.0,
+   "max": 8
+  },
+  "4": {
+   "n": 16,
+   "min": 16,
+   "median": 16.0,
+   "max": 16
+  },
+  "5": {
+   "n": 32,
+   "min": 32,
+   "median": 32.0,
+   "max": 32
+  },
+  "6": {
+   "n": 64,
+   "min": 64,
+   "median": 64.0,
+   "max": 64
+  },
+  "7": {
+   "n": 128,
+   "min": 128,
+   "median": 128.0,
+   "max": 128
+  },
+  "8": {
+   "n": 256,
+   "min": 256,
+   "median": 256.0,
+   "max": 256
+  },
+  "9": {
+   "n": 512,
+   "min": 512,
+   "median": 512.0,
+   "max": 512
+  },
+  "10": {
+   "n": 1024,
+   "min": 1024,
+   "median": 1024.0,
+   "max": 1024
+  },
+  "11": {
+   "n": 2048,
+   "min": 2048,
+   "median": 2048.0,
+   "max": 2048
+  },
+  "12": {
+   "n": 4096,
+   "min": 4096,
+   "median": 4096.0,
+   "max": 4096
+  }
+ },
+ "weak_words": [
+  [
+   "ACEACEACEACE",
+   4096
+  ],
+  [
+   "ACEACEACEACF",
+   4096
+  ],
+  [
+   "ACEACEACEADE",
+   4096
+  ],
+  [
+   "ACEACEACEADF",
+   4096
+  ],
+  [
+   "ACEACEACEBCE",
+   4096
+  ],
+  [
+   "ACEACEACEBCF",
+   4096
+  ],
+  [
+   "ACEACEACEBDE",
+   4096
+  ],
+  [
+   "ACEACEACEBDF",
+   4096
+  ],
+  [
+   "ACEACEACFACE",
+   4096
+  ],
+  [
+   "ACEACEACFACF",
+   4096
+  ],
+  [
+   "ACEACEACFADE",
+   4096
+  ],
+  [
+   "ACEACEACFADF",
+   4096
+  ],
+  [
+   "ACEACEACFBCE",
+   4096
+  ],
+  [
+   "ACEACEACFBCF",
+   4096
+  ],
+  [
+   "ACEACEACFBDE",
+   4096
+  ]
+ ],
+ "by_alt_run": {
+  "2": {
+   "n": 4096,
+   "median_ratio": 1.0
+  }
+ }
+}

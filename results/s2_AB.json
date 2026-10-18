@@ -1,0 +1,50 @@
+{
+ "word": "AB",
+ "p": 1000003,
+ "N": 2500,
+ "HF": [
+  1,
+  5,
+  12,
+  18,
+  24,
+  30,
+  36,
+  42,
+  48,
+  54,
+  60
+ ],
+ "full": [
+  1,
+  5,
+  15,
+  35,
+  70,
+  126,
+  210,
+  330,
+  495,
+  715,
+  1001
+ ],
+ "verdict": "CURVE of degree m=6, arithmetic genus ~ 1",
+ "plane": {
+  "Q-orbit": {
+   "degree": 3,
+   "kernel_dim": 1
+  },
+  "Q'-orbit": {
+   "degree": 3,
+   "kernel_dim": 1
+  },
+  "Q+Q' orbits": {
+   "degree": 3,
+   "kernel_dim": 1
+  },
+  "Q+Q' orbits + seeds A,A',B,B'": {
+   "degree": 3,
+   "kernel_dim": 1
+  }
+ }
+}
